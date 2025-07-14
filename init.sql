@@ -1,4 +1,4 @@
-CREATE DATABASE claims_db;
+
 
 CREATE TABLE IF NOT EXISTS claims (
     id VARCHAR(10) PRIMARY KEY,
